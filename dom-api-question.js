@@ -25,11 +25,11 @@
  *
  * Output:
  * <html>
- * 		<body>
- * 			<div>
- * 				Hello, I am a div!
- * 			</div>
- * 		<body>
+ * 	<body>
+ *		<div>
+ * 			Hello, I am a div!
+ * 		</div>
+ * 	<body>
  * </html>
  *
  * To understand the solution, visit: https://www.youtube.com/watch?v=CAzMsXUe2I0
