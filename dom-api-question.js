@@ -31,6 +31,8 @@
  * 			</div>
  * 		<body>
  * </html>
+ *
+ * To understand the solution, visit: https://www.youtube.com/watch?v=CAzMsXUe2I0
  */
 
 // Solution
