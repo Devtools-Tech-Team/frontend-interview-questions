@@ -12,7 +12,7 @@ This repo contains programming questions asked in Frontend interviews.
 
     In this question, we will implement a function that can be invoked by any existing or future arrays and provides a flat version of the deeply nested array.
 
-    YouTube Link: **YOUTUBE_LINK**
+    YouTube Link: https://www.youtube.com/watch?v=bqKcfTfer0Q
 
 ## Quick Links
 
